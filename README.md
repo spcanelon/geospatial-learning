@@ -36,11 +36,11 @@ Resources (mostly) related to geospatial analysis in R
 - Site: Designing accessible maps: [Maps & Geospatial: Accessibility Resources - Library Guides at Penn State University](https://guides.libraries.psu.edu/c.php?g=1246608&p=9122546)
 
 ## Geocoding (offline)
-- Residential mobility^[J.R. Meeker, H. Burris, M.R. Boland, An algorithm to identify residential mobility from electronic health-record data, International Journal of Epidemiology. 50 (2021) 2048–2057. https://doi.org/10.1093/ije/dyab064.]
+- Residential mobility[^1]
 - R programming language
-  - Decentralized and reproducible geocoding and characterization of community and environmental exposures for multisite studies^[C. Brokamp, C. Wolfe, T. Lingren, J. Harley, P. Ryan, Decentralized and reproducible geocoding and characterization of community and environmental exposures for multisite studies, J Am Med Inform Assoc. 25 (2018) 309–314. https://doi.org/10.1093/jamia/ocx128.]
+  - Decentralized and reproducible geocoding and characterization of community and environmental exposures for multisite studies[^2]
     - [Video](https://www.cctst.org/news/2019/04/decentralized-and-reproducible-geocoding_11.html)
-  - DeGAUSS: Decentralized Geomarker Assessment for Multi-Site Studies^[C. Brokamp, DeGAUSS: Decentralized Geomarker Assessment for Multi-Site Studies, JOSS. 3 (2018) 812. https://doi.org/10.21105/joss.00812.]
+  - DeGAUSS: Decentralized Geomarker Assessment for Multi-Site Studies[^3]
     - Tool & instructions: https://degauss.org/ 
   - [Challenges and solutions for private and reproducible environmental exposure assessment at scale](https://www.niehs.nih.gov/news/events/pastmtg/2022/elsi/challenges_and_solutions_for_private_and_reproducible_environmental_exposure_assessment_at_scale_508.pdf)
   - OpenStreetMap data to PostgreSQL converter: [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) 
@@ -83,3 +83,10 @@ Resources (mostly) related to geospatial analysis in R
   - [Dimension reduction methods](https://geodacenter.github.io/tutorials/pca_mds/pca_mds.html)
   - [Classic clustering methods](https://geodacenter.github.io/tutorials/classic_cluster/classic_cluster.html)
 - Workshop: [R Spatial Workshop](https://spatialanalysis.github.io/workshop-notes/) at Center for Spatial Data Science
+
+
+[^1]: J.R. Meeker, H. Burris, M.R. Boland, An algorithm to identify residential mobility from electronic health-record data, International Journal of Epidemiology. 50 (2021) 2048–2057. https://doi.org/10.1093/ije/dyab064.
+
+[^2]: C. Brokamp, C. Wolfe, T. Lingren, J. Harley, P. Ryan, Decentralized and reproducible geocoding and characterization of community and environmental exposures for multisite studies, J Am Med Inform Assoc. 25 (2018) 309–314. https://doi.org/10.1093/jamia/ocx128.
+
+[^3]: C. Brokamp, DeGAUSS: Decentralized Geomarker Assessment for Multi-Site Studies, JOSS. 3 (2018) 812. https://doi.org/10.21105/joss.00812.
