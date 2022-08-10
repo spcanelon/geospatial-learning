@@ -17,6 +17,7 @@ Resources (mostly) related to geospatial analysis in R
   - [Spatial Data Handling](https://spatialanalysis.github.io/lab_tutorials/1_R_Spatial_Data_Handling.html)
   - [Basic Mapping](https://spatialanalysis.github.io/lab_tutorials/4_R_Mapping.html)
 - Tutorial: [Space - Data Visualization](https://datavizm20.classes.andrewheiss.com/example/12-example/)
+- Tutorial: [Mapping Environmental Exposures - CHOP Arcus Education](https://education.arcus.chop.edu/mapping-environmental-exposures/)
 - Workshop: [R Spatial Workshop](https://spatialanalysis.github.io/workshop-notes/) at Center for Spatial Data Science
 - Course: Spatial Data Science – R Spatial
   - [Spatial data with terra](https://www.rspatial.org/terra/spatial/index.html)
