@@ -1,5 +1,5 @@
 # geospatial-learning
-Resources (mostly) related to geospatial analysis in R
+Resources related to geospatial analysis in (mostly) R
 
 ## Spatial data visualization
 
@@ -18,6 +18,7 @@ Resources (mostly) related to geospatial analysis in R
   - [Basic Mapping](https://spatialanalysis.github.io/lab_tutorials/4_R_Mapping.html)
 - Tutorial: [Space - Data Visualization](https://datavizm20.classes.andrewheiss.com/example/12-example/)
 - Tutorial: [Mapping Environmental Exposures - CHOP Arcus Education](https://education.arcus.chop.edu/mapping-environmental-exposures/)
+- Tutorial: [How to use open vector file formats in R: GeoPackage & GeoJSON • Floris Vanderhaeghe](https://inbo.github.io/tutorials/tutorials/spatial_standards_vector/)
 - Workshop: [R Spatial Workshop](https://spatialanalysis.github.io/workshop-notes/) at Center for Spatial Data Science
 - Course: Spatial Data Science – R Spatial
   - [Spatial data with terra](https://www.rspatial.org/terra/spatial/index.html)
