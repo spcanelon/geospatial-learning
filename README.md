@@ -3,6 +3,10 @@ Resources related to geospatial analysis in (mostly) R
 
 ## Spatial data visualization
 
+- Workshop (R/Medicine 2022): Using Public Data and Maps for Powerful Data Visualizations - Joy Payton
+  - [Video](https://www.youtube.com/watch?v=iU1h5b3qp_Y)
+  - [Slides](https://rpubs.com/pm0kjp/r_medicine_2022)
+  - [Materials](https://github.com/pm0kjp/r-medicine-2022)
 - Course: Geospatial Workshop – The Carpentries
   - [Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/)
   - [Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/)
@@ -53,6 +57,10 @@ Resources related to geospatial analysis in (mostly) R
   - [R Notebooks in ArcGIS Pro for Spatial Data Science](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/r-notebooks-in-arcgis-pro-for-spatial-data-science/)
 
 ## Spatial analysis
+- Workshop (R/Medicine 2022): Analyzing Geospatial Data in R - Sherrie Xie
+  - [Video](https://www.youtube.com/watch?v=DD7bXonh-_E)
+  - [Slides (pptx)](https://github.com/sherriexie/SpatialAnalysisinR/raw/main/Analyzing%20geospatial%20data%20in%20R.pptx)
+  - [Materials](https://github.com/sherriexie/SpatialAnalysisinR)
 - Talk: Tidy spatial data analysis
   - [Video](https://www.rstudio.com/resources/rstudioconf-2018/tidy-spatial-data-analysis/)
   - [Slides](https://github.com/edzer/rstudio_conf)
