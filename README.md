@@ -74,10 +74,13 @@ Resources related to geospatial analysis in (mostly) R
     - [R Notebooks in ArcGIS Pro for Spatial Data Science](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/r-notebooks-in-arcgis-pro-for-spatial-data-science/)
 
 ## Spatial analysis
+
 - Workshop (R/Medicine 2022): Analyzing Geospatial Data in R • Sherrie Xie
   - [Video](https://www.youtube.com/watch?v=DD7bXonh-_E)
   - [Slides (pptx)](https://github.com/sherriexie/SpatialAnalysisinR/raw/main/Analyzing%20geospatial%20data%20in%20R.pptx)
   - [Repo](https://github.com/sherriexie/SpatialAnalysisinR)
+- Talk: Geocomputation with R’s guide to reproducible spatial data analysis • Jakub Nowosad
+  - [Slides](https://jakubnowosad.com/ogh2022)
 - Talk (RStudio Conf 2018): Tidy spatial data analysis • Edzer Pebezma
   - [Video](https://www.rstudio.com/resources/rstudioconf-2018/tidy-spatial-data-analysis/)
   - [Slides](https://edzer.github.io/rstudio_conf/#1)
