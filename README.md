@@ -1,5 +1,5 @@
 # Geospatial learning resources for biomedical applications
-Resources related to geospatial analysis in (mostly) R
+Resources related to geospatial analysis in (mostly) R. Most are applicable to any context, but some are geared more for biomedical applications.
 
 ## R package resources
 
@@ -53,6 +53,8 @@ Resources related to geospatial analysis in (mostly) R
   - [Repo](https://github.com/Robinlovelace/Creating-maps-in-R)
 - Site: Designing accessible maps
   - [Maps & Geospatial: Accessibility Resources • Library Guides at Penn State University](https://guides.libraries.psu.edu/c.php?g=1246608&p=9122546)
+- Package: [Load US Census Boundary and Attribute Data as tidyverse and sf-Ready Data Frames • tidycensus](https://walker-data.com/tidycensus/) (H/T [Hansi Munasinghe](https://twitter.com/hansimunasinghe/status/1565968205876965377?s=20&t=y4IrbhPrbNWX-5b493eq3A))
+- Tutorial(s): [Blog | Milos Popovic - personal website and blog](https://milospopovic.net/blog/) (H/T [Milos Popovic](https://twitter.com/milos_agathon/status/1565972400956653568?s=20&t=y4IrbhPrbNWX-5b493eq3A))
 
 ## Geocoding (offline)
 - Residential mobility[^1]
@@ -124,6 +126,11 @@ Resources related to geospatial analysis in (mostly) R
 - Book: Public Policy Analytics: Code & Context for Data Science in Government (H/T [Matt Harris](https://twitter.com/Md_Harris/status/1565820991485394944?s=20&t=NXyKKyVqeWGqcBL8J3aCPA))
   - [Book site](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html)
   - [Repo w/ data](https://github.com/urbanSpatial/Public-Policy-Analytics-Landing)
+- Book: [16 Geospatial | Big Book of R • Oscar Baruffa](https://www.bigbookofr.com/geospatial.html) (H/T [Oscar Baruffa](https://twitter.com/OscarBaruffa/status/1565947499923349504?s=20&t=y4IrbhPrbNWX-5b493eq3A))
+- Book: [Bayesian inference with INLA • Virgilio Gómez-Rubio](https://becarioprecario.bitbucket.io/inla-gitbook/index.html) (H/T [Jose Luis Cañadas](https://twitter.com/joscani/status/1566023665095004161?s=20&t=y4IrbhPrbNWX-5b493eq3A))
+- Course (OpenGeoHub Foundation): Analysing spatial data (ECS530 01) • Roger Bivand (H/T [@datamaps](https://twitter.com/datamaps/status/1566126046893809664?s=20&t=y4IrbhPrbNWX-5b493eq3A))
+  - [Video playlist](https://www.youtube.com/playlist?list=PLXUoTpMa_9s10NVk4dBQljNOaOXAOhcE0)
+  - [Site](https://rsbivand.github.io/ECS530_h19/)
 
 [^1]: J.R. Meeker, H. Burris, M.R. Boland, An algorithm to identify residential mobility from electronic health-record data, International Journal of Epidemiology. 50 (2021) 2048–2057. https://doi.org/10.1093/ije/dyab064.
 
