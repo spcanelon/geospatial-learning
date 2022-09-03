@@ -33,6 +33,7 @@ Resources related to geospatial analysis in (mostly) R
 - Tutorial: [Space - Data Visualization • Andrew Wheiss](https://datavizm20.classes.andrewheiss.com/example/12-example/)
 - Tutorial: [Mapping Environmental Exposures • CHOP Arcus Education](https://education.arcus.chop.edu/mapping-environmental-exposures/)
 - Tutorial: [How to use open vector file formats in R: GeoPackage & GeoJSON • Floris Vanderhaeghe](https://inbo.github.io/tutorials/tutorials/spatial_standards_vector/)
+- Tutorial: [Astonishingly easy mapping in R with mapview - InfoWorld • Sharon Machlis](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)(H/T [Sharon Machlis](https://twitter.com/sharon000/status/1565834900514668544?s=20&t=NXyKKyVqeWGqcBL8J3aCPA))
 - Workshop notes: R Spatial Workshop - Center for Spatial Data Science • Angela Li
   - [Book of notes](https://spatialanalysis.github.io/workshop-notes/)
 - Book: Spatial Data Science • R Spatial
@@ -57,7 +58,7 @@ Resources related to geospatial analysis in (mostly) R
 - Residential mobility[^1]
 - R programming language
   - Decentralized and reproducible geocoding and characterization of community and environmental exposures for multisite studies[^2]
-    - [Video](https://www.cctst.org/news/2019/04/decentralized-and-reproducible-geocoding_11.html)
+    - [Video](https://www.cctst.org/news/2019/04/decentralized-and-reproducible-geocoding_11.html) (H/T [Zev Ross](https://twitter.com/zevross))
   - DeGAUSS: Decentralized Geomarker Assessment for Multi-Site Studies[^3]
     - Tool & instructions: https://degauss.org/ 
   - [Challenges and solutions for private and reproducible environmental exposure assessment at scale](https://www.niehs.nih.gov/news/events/pastmtg/2022/elsi/challenges_and_solutions_for_private_and_reproducible_environmental_exposure_assessment_at_scale_508.pdf)
@@ -79,6 +80,7 @@ Resources related to geospatial analysis in (mostly) R
   - [Video](https://www.youtube.com/watch?v=DD7bXonh-_E)
   - [Slides (pptx)](https://github.com/sherriexie/SpatialAnalysisinR/raw/main/Analyzing%20geospatial%20data%20in%20R.pptx)
   - [Repo](https://github.com/sherriexie/SpatialAnalysisinR)
+- Book: [Geocomputation with R • Robin Lovelace, Jakub Nowosad & Jannes Muenchow](https://geocompr.robinlovelace.net/) (H/T [Kjetil Haukås](https://twitter.com/kjethauk/status/1565809648963403776?s=20&t=NXyKKyVqeWGqcBL8J3aCPA))
 - Talk: Geocomputation with R’s guide to reproducible spatial data analysis • Jakub Nowosad
   - [Slides](https://jakubnowosad.com/ogh2022)
 - Talk (RStudio Conf 2018): Tidy spatial data analysis • Edzer Pebezma
@@ -114,7 +116,14 @@ Resources related to geospatial analysis in (mostly) R
   - [Classic clustering methods](https://geodacenter.github.io/tutorials/classic_cluster/classic_cluster.html)
 - Workshop notes: R Spatial Workshop - Center for Spatial Data Science • Angela Li
   - [Book of notes](https://spatialanalysis.github.io/workshop-notes/)
-
+- Workshop: Introduction to Geographic Data Science • Francisco Rowe
+  - [Website](https://fcorowe.github.io/intro-gds/)
+  - [Repo](https://github.com/fcorowe/intro-gds)
+- Book: [Spatial Modelling for Data Scientists • Francisco Rowe & Dani Arribas-Bel](https://gdsl-ul.github.io/san/)
+- Book: [[An Introduction to Spatial Data Analysis and Statistics: A Course in R • Antonio Paez](https://paezha.github.io/spatial-analysis-r/)(H/T [Antonio Paez](https://twitter.com/paezha/status/1565808944198680578?s=20&t=NXyKKyVqeWGqcBL8J3aCPA))
+- Book: Public Policy Analytics: Code & Context for Data Science in Government (H/T [Matt Harris](https://twitter.com/Md_Harris/status/1565820991485394944?s=20&t=NXyKKyVqeWGqcBL8J3aCPA))
+  - [Book site](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html)
+  - [Repo w/ data](https://github.com/urbanSpatial/Public-Policy-Analytics-Landing)
 
 [^1]: J.R. Meeker, H. Burris, M.R. Boland, An algorithm to identify residential mobility from electronic health-record data, International Journal of Epidemiology. 50 (2021) 2048–2057. https://doi.org/10.1093/ije/dyab064.
 
