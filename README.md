@@ -60,6 +60,7 @@ Resources related to geospatial analysis in (mostly) R. Most are applicable to a
   - [Maps & Geospatial: Accessibility Resources](https://guides.libraries.psu.edu/c.php?g=1246608&p=9122546) • Library Guides at Penn State University
 - Package: [Load US Census Boundary and Attribute Data as tidyverse and sf-Ready Data Frames • tidycensus](https://walker-data.com/tidycensus/) (H/T [Hansi Munasinghe](https://twitter.com/hansimunasinghe/status/1565968205876965377?s=20&t=y4IrbhPrbNWX-5b493eq3A))
 - Tutorial(s): [Blog | Milos Popovic - personal website and blog](https://milospopovic.net/blog/) (H/T [Milos Popovic](https://twitter.com/milos_agathon/status/1565972400956653568?s=20&t=y4IrbhPrbNWX-5b493eq3A))
+- Workshop: [Introduction to Geospatial Data in R - ResBaz 2021](https://figshare.com/articles/dataset/Introduction_to_Geospatial_Data_in_R_ResBaz_2021/17021726) • André Bellvé (H/T [André Bellvé](https://twitter.com/AndreBellve/status/1566993675305254915?s=20&t=9b-jNXJN6uRFcxXyxf-jdg))
 
 ## Spatial analysis
 
